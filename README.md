@@ -1,8 +1,8 @@
 # zweiter_dat_test
-hier steht etwas anderes in der zweiten Zeile
+das ist jetzt der korrekte Inhalt
 
-bla bla bla
+## bla bla bla
 saöfh
-sdds
+## sdds
 
 Das ist ein neuer Eintrag
